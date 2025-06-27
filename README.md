@@ -68,8 +68,10 @@ npm install
 ### Configuration
 
 Create a `.env` file in the root directory:
+```
 DB_URI=mongodb://localhost:27017/weatherAlertsDB
 DATASET_PATH=./path/to/your/weather.csv
+```
 
 
 ### Running the Application
