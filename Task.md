@@ -73,15 +73,3 @@ Write unit and integration tests for the system. Use Jest for testing:
 - Test CSV parsing and data loading into MongoDB.
 - Test weather alert logic and ensure alerts are triggered correctly.
 
-
-
-Phase 4: Github Action
--- 
-Set up a GitHub Actions workflow that automatically runs Node.js tests on every push and pull request to ensure code quality and stability.
-  
-
-
-# Side Task:
-- Read and understand LZ77 Algo ( Must )
-- XSS ( Must ).
-
